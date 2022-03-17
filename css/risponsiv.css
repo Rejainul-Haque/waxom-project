@@ -1,0 +1,1013 @@
+@media (max-width: 575.98px) {
+    /* Navber Part Start */
+    .navbar-brand img {
+        width: 70%;
+    }
+    .navbar-toggler:focus{
+        border: transparent;
+        box-sizing: none;
+        box-shadow: none;
+    }
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 20px;
+    }
+    .navbar-nav.ms-auto.mb-2.mb-lg-0 {
+        background: #191919;
+        padding: 0 15px;
+    }
+    /* Navber Part End */
+
+    /* Banner Part Start */
+    .item-1 ,
+    .item-2 ,
+    .item-3 {
+        padding: 115px 0;
+    }
+    .bnr-text h3 {
+        font-size: 20px;
+    }
+    .bnr-text h2 {
+        font-size: 45px;
+        line-height: 48px;
+    }
+    .bnr-text a {
+        font-size: 12px;
+        padding: 10px 20px;
+    }
+    .bnr-text p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .prevleft {
+        width: 30px;
+        height: 30px;
+        font-size: 20px;
+        line-height: 30px;
+        left: 0;
+    }
+    .nextright {
+        width: 30px;
+        height: 30px;
+        font-size: 20px;
+        line-height: 30px;
+        right: 0;
+    }
+    /* Banner Part End */
+
+    /* Servic Part Start */
+    #service {
+        padding: 15px 0;
+    }
+    .ser-item {
+        padding: 15px;
+    }
+    /* Servic Part End */
+
+    /* Ideas Part Start */
+    #ideas {
+        padding-top: 40px;
+    }
+    .sec-heading {
+        padding-bottom: 30px;
+    }
+    .sec-heading h2 {
+        font-size: 25px;
+    }
+    /* Ideas Part End */
+
+    /* Theme Part Start */
+    #theme {
+        padding: 28px 0;
+    }
+    .theme-main .th-text h3 {
+        font-size: 27px;
+        text-align: center;
+        line-height: 28px;
+    }
+    .theme-main .th-text p {
+        font-size: 17px;
+        padding-top: 5px;
+        text-align: center;
+    }
+    .theme-main .th-btn a {
+        font-size: 12px;
+        padding: 10px 20px 9px;
+        margin-top: 6px;
+    }
+    /* Theme Part End */
+
+    /* Project Part Start */
+    #projects {
+        padding: 40px 0;
+    }
+    .projct-main .proj-text .project-text-heading-item h3 {
+        font-size: 27px;
+    }
+    .projct-main .proj-text .project-text-heading-item p {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 0 11px;
+        margin-bottom: 13px;
+    }
+    .project-btn{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        gap: 15px;
+    }
+    .projct-main .proj-text .project-btn .item-btn {
+        font-size: 14px;
+        padding: 5px 10px;
+    }
+    .projct-main .prj-item-main {
+        padding-top: 25px;
+    }
+    .projct-main .prj-item .prj-text {
+        padding: 15px;
+    }
+    .projct-main .prj-item .img .overly a i {
+        font-size: 25px;
+    }
+    .projct-main .prj-btn a {
+        font-size: 12px;
+        padding: 10px 20px;
+    }
+    /* Project Part End */
+
+    /* Presentation  Part Start */
+    #presentation {
+        padding: 110px 0;
+    }
+    .pres-main .pres-text h3 {
+        font-size: 22px;
+        padding-top: 17px;
+    }
+    .pres-main .pres-text p {
+        font-size: 13px;
+        line-height: 25px;
+    }
+    /* Presentation  Part End */
+
+    /* Mobile Device Part Start */
+    #mobile-devices {
+        padding-top: 40px;
+    }
+    .md-dev-main .md-dev-text {
+        padding-top: 55px;
+    }
+    .md-dev-main .md-dev-text h3 {
+        font-size: 27px;
+        text-align: center;
+    }
+    .md-dev-main .md-dev-text p {
+        font-size: 14px;
+        line-height: 25px;
+        padding: 5px 9px;
+    }
+    .md-dev-main .md-dev-text ul {
+        padding-left: 15px;
+    }
+    .md-dev-main .md-dev-text ul li {
+        line-height: 25px;
+    }
+    .md-dev-main .md-dev-text ul li i {
+        margin-right: 10px;
+    }
+
+    /* Mobile Device Part End */
+
+    /* Counter UP Part Start */
+    #countup {
+        padding-top: 28px;
+        padding-bottom: 28px;
+    }
+    .count-text p {
+        font-size: 40px;
+        line-height: 26px;
+        padding-top: 10px;
+    }
+    .count-text h3 {
+        line-height: 18px;
+        padding-bottom: 20px;
+    }
+    /* Counter UP Part End */
+
+    /* Recent Post Part Start */
+    #recent-posts {
+        padding: 40px 0;
+    }
+    .post-heading p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .recent-item {
+        padding-top: 5px;
+    }
+    .recent-item .item-text {
+        padding: 0px 15px;
+    }
+    .recent-item .item-text h4 {
+        font-size: 18px;
+        padding-top: 15px;
+    }
+    .recent-item .item-text p {
+        line-height: 18px;
+        margin-bottom: 8px;
+    }
+    .recent-item .item-text a {
+        line-height: 18px;
+        padding-bottom: 15px;
+    }
+    .recent-posts-slider .post-alider-item {
+        padding-bottom: 35px;
+    }
+    /* Recent Post Part End */
+
+    /* Band Banner Part Start */
+    #band-banner {
+        padding: 70px 0;
+    }
+    .band-img {
+        padding-bottom: 15px;
+    }
+    /* Band Banner Part End */
+
+    /* Footer Part Start */
+    #footer {
+        background: #191919;
+        padding-top: 40px;
+    }
+    #footer .footer-item {
+        padding-bottom: 16px;
+    }
+    .ft-text .itm-img a img {
+        width: 70%;
+        text-align: center;
+    }
+    .ft-text .info p {
+        line-height: 20px;
+        padding-top: 10px;
+        margin-bottom: 7px;
+    }
+    .ft-text .info a {
+        padding-bottom: 10px;
+    }
+    .footer-text-item-one h3 {
+        text-align: center;
+    }
+    .footer-text-item-one ul li a h5 {
+        padding-top: 8px;
+    }
+    .footer-text-item-two h3 {
+        text-align: center;
+    }
+    .footer-text-item-two li p {
+        line-height: 15px;
+        padding-top: 5px;
+        margin-bottom: 5px;
+    }
+    .footer-text-item-two li span {
+        padding-bottom: 5px;
+    }
+    .footer-text-item-one ul li a p {
+        line-height: 15px;
+    }
+    .footer-text-item-three h3 {
+        padding-bottom: 10px;
+        text-align: center;
+    }
+    /* Copy Right Paart Start */
+    .copy-right {
+        padding-top: 24px;
+        padding-bottom: 20px;
+    }
+    .copy-right .copy-text p {
+        line-height: 16px;
+        margin-bottom: 8px;
+        text-align: center;
+    }
+    /* Copy Right Paart End */
+    /* Footer Part End */
+ }
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* Navber Part Start */
+    .navbar-brand img {
+        width: 100%;
+    }
+    .navbar-toggler:focus{
+        border: transparent;
+        box-sizing: none;
+        box-shadow: none;
+    }
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 25px;
+    }
+    .navbar-nav.ms-auto.mb-2.mb-lg-0 {
+        background: #191919;
+        padding: 0 15px;
+    }
+    /* Navber Part End */
+
+    /* Banner Part Start */
+    .item-1 ,
+    .item-2 ,
+    .item-3 {
+        padding: 160px 0;
+    }
+    .bnr-text h3 {
+        font-size: 35px;
+    }
+    .bnr-text h2 {
+        font-size: 44px;
+    }
+    .bnr-text p {
+        font-size: 15px;
+    }
+    .bnr-text a {
+        padding: 15px 25px;
+    }
+    .nextright {
+        right: 25px;
+    }
+    .prevleft {
+        left: 25px;
+    }
+    /* Banner Part End */
+
+    /* Servics Part Start */
+    #service {
+        padding: 35px 0;
+    }
+    .ser-item {
+        padding: 15px 10px;
+    }
+    .ser-item h3 {
+        padding-top: 14px;
+    }
+    .ser-item p {
+        line-height: 22px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        text-align: center;
+    }
+    /* Servics Part End */
+
+    /* Ideas Part Start */
+    #ideas {
+        padding-top: 40px;
+    }
+    .sec-heading {
+        padding-bottom: 25px;
+    }
+    .sec-heading h2 {
+        font-size: 28px;
+    }
+    .sec-heading p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    /* Ideas Part End */
+
+    /* Theme Part Start */
+    #theme {
+        padding: 25px 0;
+    }
+    .theme-main .th-text h3 {
+        font-size: 26px;
+        text-align: center;
+    }
+    .theme-main .th-text p {
+        font-size: 16px;
+        text-align: center;
+    }
+    .theme-main .th-btn a {
+        padding: 15px 25px 14px;
+    }
+    /* Theme Part End */
+
+    /* Projects Part Start */
+    #projects {
+        padding: 40px 0;
+    }
+    .projct-main .proj-text .project-text-heading-item h3 {
+        font-size: 28px;
+    }
+    .projct-main .proj-text .project-text-heading-item p {
+        font-size: 15px;
+        line-height: 24px;
+        padding: 0 15px;
+    }
+    .projct-main .proj-text .project-btn {
+        gap: 15px;
+        flex-wrap: wrap;
+    }
+    .projct-main .prj-item-main {
+        padding-top: 20px;
+    }
+    .projct-main .prj-item .img {
+        /* width: 90%; */
+        margin: 0 auto;
+    }
+    .projct-main .prj-item .img .overly a i {
+        font-size: 24px;
+    }
+    .projct-main .prj-item .prj-text {
+        padding: 20px;
+        /* width: 90%; */
+        margin: 0 auto;
+    }
+    .projct-main .prj-btn a {
+        padding: 15px 25px;
+        margin-top: 25px;
+    }
+    /* Projects Part End */
+    
+    /* Presentation  Part Start */
+    #presentation {
+        padding: 140px 0;
+    }
+    .pres-main .pres-text h3 {
+        padding-top: 20px;
+    }
+    .pres-main .pres-text p {
+        font-size: 15px;
+        line-height: 24px;
+        text-align: center;
+    }
+    /* Presentation  Part End */
+    
+    /* Mobile Device Part Start */
+    #mobile-devices {
+        padding-top: 40px;
+    }
+    .md-dev-main .md-dev-text {
+        padding-top: 60px;
+    }
+    .md-dev-main .md-dev-text h3 {
+        font-size: 30px;
+        text-align: center;
+    }
+    .md-dev-main .md-dev-text p {
+        font-size: 15px;
+        line-height: 25px;
+        padding: 0 10px;
+        text-align: center;
+    }
+    .md-dev-main .md-dev-text ul {
+        padding-left: 20px;
+    }
+    .md-dev-main .md-dev-text ul li {
+        line-height: 28px;
+    }
+    .md-dev-main .md-dev-text ul li i {
+        margin-right: 16px;
+    }
+    /* Mobile Device Part End */
+    
+    /* CounterUP Part Start */
+    #countup {
+        padding-top: 28px;
+        padding-bottom: 28px;
+    }
+    .count-text p {
+        font-size: 40px;
+        line-height: 30px;
+        padding-top: 18px;
+    }
+    .count-text h3 {
+        line-height: 20px;
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+    }
+    /* CounterUP Part End */
+    
+    /* Recent Post Part Start */
+    #recent-posts {
+        padding: 40px 0;
+    }
+    .post-heading p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .recent-item .item-text {
+        padding: 0 24px;
+    }
+    .recent-item .item-text h4 {
+        font-size: 24px;
+        padding-top: 20px;
+    }
+    .recent-item .item-text p {
+        line-height: 18px;
+    }
+    .recent-item .item-text a {
+        line-height: 18px;
+        padding-bottom: 17px;
+    }
+    .post-nextright {
+        bottom: -10px;
+    }
+    .post-prevleft {
+        bottom: -10px;
+    }
+    /* Recent Post Part End */
+    
+    /* Brand Banner Part Start */
+    #band-banner {
+        padding: 70px 0;
+    }
+    .band-img {
+        padding-bottom: 20px;
+    }
+    /* Brand Banner Part End */
+    
+    /* Footer Part Start */
+    #footer {
+        padding-top: 40px;
+    }
+    #footer .footer-item {
+        padding-bottom: 20px;
+    }
+    .itm-img {
+        text-align: center;
+    }
+    .ft-text .info p {
+        line-height: 22px;
+        padding-top: 15px;
+    }
+    .ft-text .info a {
+        padding-bottom: 13px;
+    }
+    .footer-text-item-one h3 {
+        text-align: center;
+    }
+    .footer-text-item-two h3 {
+        text-align: center;
+    }
+    .footer-text-item-three h3 {
+        text-align: center;
+    }
+    .footer-text-item-three .item-img {
+        margin-bottom: 25px;
+        text-align: center;
+    }
+    /* Copy Right Part Star */
+    .copy-right {
+        padding-top: 24px;
+        padding-bottom: 20px;
+    }
+    .copy-right .copy-text p {
+        text-align: center;
+    }
+    /* Copy Right Part End */
+
+    /* Footer Part End */
+
+ }
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* Navber Part Start */
+    .navbar-toggler:focus{
+        border: transparent;
+        box-sizing: none;
+        box-shadow: none;
+    }
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 25px;
+    }
+    .navbar-nav.ms-auto.mb-2.mb-lg-0 {
+        background: #191919;
+        padding: 0 15px;
+    }
+    /* Navber Part End */
+
+    /* Banner Part Start */
+    .item-1 ,
+    .item-2,
+    .item-3 {
+        padding: 170px 0;
+    }
+    .bnr-text p {
+        padding-bottom: 25px;
+        margin: 0;
+    }
+    .bnr-text a {
+        padding: 15px 25px;
+    }
+    .prevleft {
+        left: 20px;
+    }
+    .nextright {
+        right: 20px;
+    }
+    /* Banner Part End */
+
+    /* Service Part Start */
+    #service {
+        padding: 25px 0;
+    }
+    .ser-item {
+        padding: 20px 10px;
+    }
+    .ser-item p {
+        padding: 0 20px 35px 35px;
+        margin: 0;
+    }
+    /* Service Part End */
+    
+    /* Ideas Part Start */
+    #ideas {
+        padding-top: 40px;
+    }
+    .sec-heading {
+        padding-bottom: 30px;
+    }
+    .sec-heading p {
+        line-height: 25px;
+        margin: 0px;
+        padding: 0 10px;
+    }
+    /* Ideas Part End */
+    
+    /* Theme Part Start */
+    #theme {
+        padding: 25px 0;
+    }
+    .th-text {
+        text-align: center;
+    }
+    .theme-main .th-btn a {
+        padding: 15px 25px 14px;
+    }
+    /* Theme Part End */
+    
+    /* projects Part Start */
+    #projects {
+        padding: 40px 0;
+    }
+    .projct-main .proj-text .project-text-heading-item p {
+        line-height: 24px;
+    }
+    .projct-main .prj-item-main {
+        padding-top: 25px;
+    }
+    .projct-main .prj-item .prj-text {
+        padding: 25px;
+    }
+    .projct-main .prj-btn a {
+        padding: 15px 35px;
+        margin-top: 25px;
+    }
+    /* projects Part End */
+    
+    /* Presentation Part Start */
+    #presentation {
+        padding: 125px 0;
+    }
+    .pres-main .pres-text h3 {
+        padding-top: 22px;
+    }
+    .pres-main .pres-text p {
+        line-height: 26px;
+        padding: 0 16px;
+    }
+    /* Presentation Part End */
+    
+    /* Mobile Device Part Start */
+    #mobile-devices {
+        padding-top: 40px;
+    }
+    .md-dev-main .md-dev-text {
+        padding-top: 60px;
+    }
+    .md-dev-main .md-dev-text h3 {
+        text-align: center;
+        margin: 0;
+    }
+    .md-dev-main .md-dev-text p {
+        line-height: 26px;
+    }
+    /* Mobile Device Part End */
+    
+    /* CounterUp Part Start */
+    #countup {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    /* CounterUp Part End */
+    
+    /* Recent Post Part Start */
+    #recent-posts {
+        padding: 40px 0;
+    }
+    .post-heading p {
+        line-height: 25px;
+    }
+    .recent-item {
+        padding-top: 10px;
+    }
+    .recent-item .item-text {
+        padding: 0 20px;
+    }
+    .recent-item .item-text a {
+        padding-bottom: 20px;
+    }
+    .recent-posts-slider .post-alider-item {
+        margin: 0 20px;
+        padding-bottom: 40px;
+    }
+    .post-nextright {
+        bottom: -17px;
+    }
+    .post-prevleft {
+        bottom: -17px;
+    }
+    /* Recent Post Part End */
+    
+    /* Brand Banner Part Start */
+    #band-banner {
+        padding: 85px 0;
+    }
+    .band-img {
+        text-align: center;
+    }
+    .band-img {
+        text-align: center;
+        padding-bottom: 26px;
+    }
+    /* Brand Banner Part End */
+
+    /* Footer Part Start */
+    #footer {
+        padding-top: 40px;
+    }
+    #footer .footer-item {
+        padding-bottom: 25px;
+    }
+    .itm-img {
+        text-align: center;
+    }
+    .footer-text-item-one h3 {
+        text-align: center;
+    }
+    .footer-text-item-two h3 {
+        text-align: center;
+    }
+    .footer-text-item-three h3 {
+        padding-bottom: 16px;
+        margin: 0;
+        text-align: center;
+    }
+    .footer-text-item-three .item-img {
+        text-align: center;
+    }
+
+    /* Copy Right Part Start */
+    .copy-right {
+        padding-top: 25px;
+    }
+    .copy-right .copy-text p {
+        text-align: center;
+    }
+    /* Copy Right Part End */
+   
+    /* Footer Part End */
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* Banner Part Start */
+.item-1, 
+.item-2,
+.item-3 {
+	padding: 270px 0;
+}
+.bnr-text a {
+	padding: 15px 25px;
+}
+/* Banner Part End */
+
+/* Servic Part Start */
+#service {
+	padding: 30px 0;
+}
+.ser-item {
+	padding: 25px 10px;
+}
+.ser-item h3 {
+	font-size: 21px;
+	padding-top: 15px;
+}
+.ser-item p {
+	padding-bottom: 25px;
+}
+/* Servic Part End */
+
+/* Ideas Part Start */
+#ideas {
+	padding-top: 45px;
+}
+.sec-heading {
+	padding-bottom: 30px;
+}
+.sec-heading p {
+	font-size: 15px;
+	line-height: 26px;
+}
+/* Ideas Part End */
+
+/* theme Part Start */
+#theme {
+	padding: 25px 0;
+}
+.theme-main .th-btn a {
+	font-size: 10px;
+	padding: 16px 26px 15px;
+}
+/* theme Part End */
+
+/* Projects Part Start */
+#projects {
+	padding: 45px 0;
+}
+.projct-main .proj-text .project-btn {
+	flex-wrap: wrap;
+}
+.projct-main .proj-text .project-btn .item-btn {
+	font-size: 14px;
+	padding: 11px 15px;
+	margin-top: 12px;
+}
+.projct-main .prj-item-main {
+	padding-top: 25px;
+}
+.projct-main .prj-item .prj-text {
+	padding: 20px;
+}
+.projct-main .prj-btn a {
+	padding: 15px 30px;
+	margin-top: 25px;
+}
+/* Projects Part End */
+
+/* Prensentation Part Start */
+#presentation {
+	padding: 155px 0;
+}
+.pres-main .pres-text h3 {
+	padding-top: 20px;
+}
+.pres-main .pres-text p {
+	line-height: 26px;
+}
+/* Prensentation Part End */
+
+/* Mobile Device Part Start */
+#mobile-devices {
+	padding-top: 45px;
+}
+.md-dev-main .md-dev-text {
+	padding-top: 80px;
+}
+.md-dev-main .md-dev-text p {
+	line-height: 26px;
+}
+/* Mobile Device Part End */
+
+/* CounterUP Part Start */
+#countup {
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+.count-text p {
+	padding-top: 22px;
+}
+.count-text h3 {
+	padding-bottom: 25px;
+}
+/* CounterUP Part End */
+
+/* Recent Post Part Start */
+#recent-posts {
+	padding: 45px 0;
+}
+.recent-posts-slider .post-alider-item {
+	padding-bottom: 44px;
+}
+.recent-item .item-text {
+	padding: 0 17px;
+}
+.recent-item .item-text h4 {
+	font-size: 18px;
+	padding-top: 17px;
+}
+.recent-item .item-text p {
+	font-size: 13px;
+	line-height: 21px;
+}
+.recent-item .item-text a {
+	padding-bottom: 24px;
+}
+.post-nextright {
+	bottom: -17px;
+}
+.post-prevleft {
+	bottom: -17px;
+}
+/* Recent Post Part End */
+
+/* Brand Banner Part Start */
+#band-banner {
+	padding: 95px 0;
+}
+/* Brand Banner Part End */
+
+/* Footer Part Start */
+#footer {
+	padding-top: 45px;
+}
+#footer .footer-item {
+	padding-bottom: 20px;
+}
+.ft-text .info p {
+	padding-top: 15px;
+}
+
+/* Copy Right Part Start */
+.copy-right {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+/* Copy Right Part End */
+
+/* Footer Part End */
+
+ }
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+/* Banner Part Start */
+.item-1,
+.item-2,
+.item-3 {
+	padding: 350px 0;
+}
+.bnr-text a {
+	padding: 16px 25px;
+}
+/* Banner Part End */
+
+/* Servic Part Start */
+#service {
+	padding: 40px 0;
+}
+.ser-item {
+	padding: 25px 15px;
+}
+/* Servic Part End */
+
+/* Ideas Part Start */
+#ideas {
+	padding-top: 55px;
+}
+.sec-heading {
+	padding-bottom: 45px;
+}
+/* Ideas Part End */
+
+/* Theme Part Start */
+.theme-main .th-btn a {
+	font-size: 13px;
+	padding: 16px 25px 15px;
+}
+/* Theme Part End */
+
+/* Projects Part Start */
+.projct-main .proj-text .project-btn .item-btn {
+	font-size: 13px;
+	padding: 10px 15px;
+}
+.projct-main .prj-btn a {
+	padding: 17px 36px;
+}
+/* Projects Part End */
+
+/* Presentation  Part Start */
+#presentation {
+	padding: 200px 0;
+}
+/* Presentation  Part End */
+
+/* Mobile Device Part Start */
+#mobile-devices {
+	padding-top: 60px;
+}
+.md-dev-main .md-dev-text {
+	padding-top: 105px;
+}
+/* Mobile Device Part End */
+
+ }
+@media (min-width: 1400px){ 
+/* Navber Part Start */
+/* Navber Part End */
+ }
+
+
